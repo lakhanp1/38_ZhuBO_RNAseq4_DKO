@@ -1,0 +1,2 @@
+group1	group2	comparison	type	samples
+DKO	WT	DKO_vs_WT	pairwise	WT_1;WT_2;WT_3;DKO_1;DKO_2;DKO_3
